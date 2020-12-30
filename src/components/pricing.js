@@ -61,7 +61,7 @@ export class Pricing extends React.Component {
                         </Card.Body>
                     </Card>
 
-                    <Card>
+                    <Card> 
                         <Card.Img variant="top" src="images/notdimentional.jpg" />
                         <Card.Body>
                             <Card.Title>Not Dimensional Parcels</Card.Title>
