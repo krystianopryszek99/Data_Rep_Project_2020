@@ -64,9 +64,9 @@ export class Pricing extends React.Component {
                     <Card>
                         <Card.Img variant="top" src="images/notdimentional.jpg" />
                         <Card.Body>
-                            <Card.Title>Not Dimentional Parcels</Card.Title>
+                            <Card.Title>Not Dimensional Parcels</Card.Title>
                             <Card.Text>
-                                Not dimentional parcels are packages that have more than 300cm in total size and weight above 50kg.
+                                Not dimensional parcels are packages that have more than 300cm in total size and weight above 50kg.
 
                                 If the package doesn't exceed them requirements and is below them, they might be a refund send to you.
                             </Card.Text>
